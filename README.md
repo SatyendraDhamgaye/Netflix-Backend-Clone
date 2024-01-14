@@ -13,3 +13,25 @@
 
 ###### MongoDb Database-
 ![MongoDB](https://github.com/SatyendraDhamgaye/Netflix-Backend-Clone/assets/112928058/02232109-2682-4d15-b539-cc27a4a9342f)
+
+#### Featuring key Routing:
+1. InsertOneMovie:
+> Endpoint to insert a new movie into the database, providing flexibility for seamless content updates.
+
+5. UpdateOneMovie:
+> Endpoint to modify information for a specific movie, ensuring up-to-date content details.
+
+9. GetAllMovies:
+> Endpoint for retrieving a list of all available movies from the database.
+
+13. CreateMovie:
+> Endpoint to add a new movie to the database, including relevant metadata.
+
+17. MarkAsWatched:
+> Endpoint to mark a movie as watched, updating user watch history.
+
+21. DeleteAMovie:
+> Endpoint for deleting a specific movie based on unique identifiers.
+
+25. DeleteAllMovies:
+> Endpoint to delete all movies from the database.
