@@ -18,20 +18,20 @@
 1. InsertOneMovie:
 > Endpoint to insert a new movie into the database, providing flexibility for seamless content updates.
 
-5. UpdateOneMovie:
+2. UpdateOneMovie:
 > Endpoint to modify information for a specific movie, ensuring up-to-date content details.
 
-9. GetAllMovies:
+3. GetAllMovies:
 > Endpoint for retrieving a list of all available movies from the database.
 
-13. CreateMovie:
+4. CreateMovie:
 > Endpoint to add a new movie to the database, including relevant metadata.
 
-17. MarkAsWatched:
+5. MarkAsWatched:
 > Endpoint to mark a movie as watched, updating user watch history.
 
-21. DeleteAMovie:
+6. DeleteAMovie:
 > Endpoint for deleting a specific movie based on unique identifiers.
 
-25. DeleteAllMovies:
+7. DeleteAllMovies:
 > Endpoint to delete all movies from the database.
